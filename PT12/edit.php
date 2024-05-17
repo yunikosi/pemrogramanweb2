@@ -22,7 +22,7 @@ if ($_POST) {
     $penulis = $_POST['penulis'];
     $nama_kategori = $_POST['nama_kategori'];
 
-    // Update berita
+    
     $idkategori = $berita['idkategori'];
     $update_berita = "UPDATE tblberita SET judul_berita = '$judul_berita', isi_berita = '$isi_berita', penulis = '$penulis' WHERE id_berita = $id_berita";
     $update_kategori = "UPDATE tblkategori SET nama_kategori = '$nama_kategori' WHERE idkategori = $idkategori";

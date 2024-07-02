@@ -61,7 +61,7 @@ echo $text;
 <table>
     <tr>
         <th>Tim</th>
-        <th>Meang</th>
+        <th>Menang</th>
         <th>Seri</th>
         <th>Kalah</th>
         <th>Poin</th>

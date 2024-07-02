@@ -64,7 +64,7 @@ $countries = getCountries($conn);
 <?php
 $current_time = date("d F Y H:i:s");
 
-$text = "<p>Data Group A</p>\n";
+$text = "<p>Data Group B</p>\n";
 $text .= "<p>Per " . $current_time . "</p>\n";
 $text .= "<p>211011400911</p>\n";
 

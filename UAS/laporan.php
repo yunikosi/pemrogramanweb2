@@ -60,11 +60,11 @@ echo $text;
 
 <table>
     <tr>
-        <th>Country</th>
-        <th>Wins</th>
-        <th>Draws</th>
-        <th>Losses</th>
-        <th>Points</th>
+        <th>Tim</th>
+        <th>Meang</th>
+        <th>Seri</th>
+        <th>Kalah</th>
+        <th>Poin</th>
     </tr>
     <?php while ($row = $countries->fetch_assoc()): ?>
     <tr>
